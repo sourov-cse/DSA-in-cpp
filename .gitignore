@@ -1,0 +1,4 @@
+*.exe
+output/
+Pointers/output/
+.vscode/
